@@ -1,1 +1,1 @@
-// export const apiConfig.get( ... )
+// export const getCvs = config.get( ... )
